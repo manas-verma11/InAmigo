@@ -44,7 +44,7 @@ The implementation uses a warm social-impact visual language with saffron, green
 
 The homepage introduces the foundation's mission, highlights its reach and impact, and provides prominent **Become a Volunteer** and **Our Projects** calls-to-action.
 
-![InAmigos Foundation Homepage](assets/inamigos/homepage.png)
+![InAmigos Foundation Homepage](assets/homepage.png)
 
 ---
 
@@ -52,7 +52,7 @@ The homepage introduces the foundation's mission, highlights its reach and impac
 
 The About section presents the foundation's background, registration/certification information, and organisational footprint, including its work across multiple states.
 
-![InAmigos Foundation About Section](assets/inamigos/about.png)
+![InAmigos Foundation About Section](assets/about.png)
 
 ---
 
@@ -60,7 +60,7 @@ The About section presents the foundation's background, registration/certificati
 
 The Projects section presents the foundation's six major initiatives, covering education, women empowerment, food and clothing, animal welfare, environmental conservation, and skill development.
 
-![InAmigos Foundation Projects](assets/inamigos/projects.png)
+![InAmigos Foundation Projects](assets/projects.png)
 
 ---
 
@@ -68,7 +68,7 @@ The Projects section presents the foundation's six major initiatives, covering e
 
 The Contact section provides organisation contact information together with a structured volunteer-interest form where users can enter their details and select an area of interest.
 
-![InAmigos Foundation Contact and Volunteer Form](assets/inamigos/contact-volunteer.png)
+![InAmigos Foundation Contact and Volunteer Form](assets/contact-volunteer.png)
 
 ---
 
