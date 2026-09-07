@@ -4,10 +4,10 @@ A collection of modern, responsive web experiences developed during my work with
 
 The repository contains two independent frontend projects:
 
-* 🌍 **Project 1 — InAmigos Foundation Website**
-* 🤖 **Project 2 — LearnSpark AI Learning Platform**
+- 🌍 **Project 1 — InAmigos Foundation Website**
+- 🤖 **Project 2 — LearnSpark AI Learning Platform**
 
-Both projects are built with a strong emphasis on **responsive design, clean layouts, interactive UI components, visual storytelling, and user-focused experiences**.
+Both projects are built with a strong emphasis on responsive design, clean layouts, interactive UI components, visual storytelling, and user-focused experiences.
 
 ---
 
@@ -15,54 +15,86 @@ Both projects are built with a strong emphasis on **responsive design, clean lay
 
 ### 🌍 Project 1 — InAmigos Foundation
 
-A modern landing page and digital presence for **InAmigos Foundation**, a Section 8 non-profit organization working across areas such as education, women's empowerment, animal welfare, environmental conservation, and social inclusion.
+A modern landing page and digital presence for InAmigos Foundation, a Section 8 non-profit organization working across areas such as education, women's empowerment, animal welfare, environmental conservation, and social inclusion.
 
 The website is designed to communicate the organization's mission, showcase its initiatives, highlight its impact, and encourage users to volunteer or contribute.
 
 #### ✨ Key Features
 
-* 🏠 Modern hero section with clear calls-to-action
-* 📊 Impact statistics and organization highlights
-* 🏢 About & certification section
-* 🌱 Dedicated project showcase
-* 📸 Impact/gallery section
-* 💛 Donation call-to-action
-* 🙋 Volunteer registration flow
-* 📞 Contact and social-media section
-* 📱 Responsive design for desktop, tablet, and mobile
-* ✨ Smooth animations and hover interactions
-* 🎨 Custom visual design using CSS
-* 🔗 External integrations for volunteering, donations, and organization links
+- 🏠 Modern hero section with clear calls-to-action
+- 📊 Impact statistics and organization highlights
+- 🏢 About & certification section
+- 🌱 Dedicated project showcase
+- 📸 Impact/gallery section
+- 💛 Donation call-to-action
+- 🙋 Volunteer registration flow
+- 📞 Contact and social-media section
+- 📱 Responsive design for desktop, tablet, and mobile
+- ✨ Smooth animations and hover interactions
+- 🎨 Custom visual design using CSS
+- 🔗 External integrations for volunteering, donations, and organization links
 
 The implementation uses a warm social-impact visual language with saffron, green, cream, and dark tones, custom typography, responsive grids, cards, gradients, and interactive hover states.
 
 ---
 
+## 📸 InAmigos Foundation — Project Screenshots
+
+### 🏠 Homepage / Hero Section
+
+The homepage introduces the foundation's mission, highlights its reach and impact, and provides prominent **Become a Volunteer** and **Our Projects** calls-to-action.
+
+![InAmigos Foundation Homepage](assets/inamigos/homepage.png)
+
+---
+
+### 🏢 About the Foundation
+
+The About section presents the foundation's background, registration/certification information, and organisational footprint, including its work across multiple states.
+
+![InAmigos Foundation About Section](assets/inamigos/about.png)
+
+---
+
+### 🌱 Projects Showcase
+
+The Projects section presents the foundation's six major initiatives, covering education, women empowerment, food and clothing, animal welfare, environmental conservation, and skill development.
+
+![InAmigos Foundation Projects](assets/inamigos/projects.png)
+
+---
+
+### 🙋 Volunteer / Contact Section
+
+The Contact section provides organisation contact information together with a structured volunteer-interest form where users can enter their details and select an area of interest.
+
+![InAmigos Foundation Contact and Volunteer Form](assets/inamigos/contact-volunteer.png)
+
+---
+
 ### 🤖 Project 2 — LearnSpark
 
-**LearnSpark** is a modern concept for an **AI-powered learning platform** designed around personalized education and career development.
+LearnSpark is a modern concept for an AI-powered learning platform designed around personalised education and career development.
 
-The interface presents a learning ecosystem where AI can help learners identify skill gaps, create personalized learning paths, provide tutoring, track progress, and support project-based learning.
+The interface presents a learning ecosystem where AI can help learners identify skill gaps, create personalised learning paths, provide tutoring, track progress, and support project-based learning.
 
 #### ✨ Key Features
 
-* 🎯 Personalized learning roadmap concept
-* 🤖 AI Tutor interface
-* 📚 Course discovery and course cards
-* 📈 Learning progress tracking
-* 🔥 Learning streak system
-* 🏆 Certificates and achievements
-* 🏗️ Project-based learning
-* 👥 Community learning concept
-* 💬 Testimonials section
-* 💳 Pricing plans
-* ❓ FAQ section
-* 📱 Responsive modern UI
-* ✨ Smooth animations and interactive elements
+- 🎯 Personalised learning roadmap concept
+- 🤖 AI Tutor interface
+- 📚 Course discovery and course cards
+- 📈 Learning progress tracking
+- 🔥 Learning streak system
+- 🏆 Certificates and achievements
+- 🏗️ Project-based learning
+- 👥 Community learning concept
+- 💬 Testimonials section
+- 💳 Pricing plans
+- ❓ FAQ section
+- 📱 Responsive modern UI
+- ✨ Smooth animations and interactive elements
 
-The design includes a dashboard-style learning interface with course progress, streak tracking, AI tutoring, skill roadmaps, certificates, and community features.
-
-> **Note:** LearnSpark is currently a frontend/UI concept. The AI Tutor, adaptive learning, certificates, payments, and other platform capabilities are represented as product/interface concepts rather than a production backend implementation. The page itself describes these as part of the envisioned platform experience.
+> **Note:** LearnSpark is currently a frontend/UI concept. The AI Tutor, adaptive learning, certificates, payments, and other platform capabilities are represented as product/interface concepts rather than a production backend implementation.
 
 ---
 
@@ -70,27 +102,27 @@ The design includes a dashboard-style learning interface with course progress, s
 
 ### Frontend
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **CSS Grid**
-* **CSS Flexbox**
-* **Responsive Web Design**
-* **CSS Animations & Transitions**
-* **Google Fonts**
+- HTML5
+- CSS3
+- JavaScript
+- CSS Grid
+- CSS Flexbox
+- Responsive Web Design
+- CSS Animations & Transitions
+- Google Fonts
 
 ### Design & UI
 
-* Custom CSS design system
-* Responsive layouts
-* Gradient backgrounds
-* Glassmorphism / backdrop blur
-* Interactive cards
-* Hover animations
-* Modern typography
-* Mobile-first responsive considerations
+- Custom CSS design system
+- Responsive layouts
+- Gradient backgrounds
+- Glassmorphism / backdrop blur
+- Interactive cards
+- Hover animations
+- Modern typography
+- Mobile-first responsive considerations
 
-The projects primarily use self-contained HTML/CSS implementations rather than a frontend framework, making them lightweight and easy to run. The source files contain the styling and page structure directly within the respective HTML files.
+The projects primarily use self-contained HTML/CSS implementations rather than a frontend framework, making them lightweight and easy to run.
 
 ---
 
@@ -105,26 +137,15 @@ InAmigo/
 ├── Project2/
 │   └── learn.html
 │
+├── assets/
+│   └── inamigos/
+│       ├── homepage.png
+│       ├── about.png
+│       ├── projects.png
+│       └── contact-volunteer.png
+│
 └── README.md
 ```
-
-### Project 1
-
-```text
-Project1/
-└── index.html
-```
-
-The first project is a complete single-page NGO website containing sections for the hero, organization information, projects, impact, gallery, donation/volunteer CTAs, and contact information.
-
-### Project 2
-
-```text
-Project2/
-└── learn.html
-```
-
-The second project is a complete learning-platform landing page covering the product introduction, learning workflow, courses, AI features, testimonials, pricing, FAQ, and footer.
 
 ---
 
@@ -192,22 +213,20 @@ The InAmigos project focuses on using technology to improve the digital presence
 
 The website communicates initiatives around:
 
-* 📚 Education
-* 🌸 Women Empowerment
-* 🍲 Food & Clothing
-* 🐾 Animal Welfare
-* 🌱 Environmental Conservation
-* 💼 Skill Development
+- 📚 Education
+- 🌸 Women Empowerment
+- 🍲 Food & Clothing
+- 🐾 Animal Welfare
+- 🌱 Environmental Conservation
+- 💼 Skill Development
 
-The implementation also provides direct paths for users to **volunteer, donate, connect with the organization, and learn about its initiatives**.
+The implementation also provides direct paths for users to volunteer, donate, connect with the organization, and learn about its initiatives.
 
 ---
 
 ## 🧠 Learning Platform Vision
 
 LearnSpark explores how AI could be incorporated into modern online education.
-
-The concept includes:
 
 ```text
 Learner
@@ -234,82 +253,59 @@ Projects & Assessments
 Certificates + Career Growth
 ```
 
-The UI specifically presents adaptive tutoring, skill-roadmap generation, project-based learning, certificates, and peer learning as core product concepts.
-
----
-
-## 📸 Project Highlights
-
-### InAmigos Foundation
-
-* Mission-driven landing page
-* Impact statistics
-* Organization information
-* Project showcase
-* Donation CTA
-* Volunteer CTA
-* Contact section
-* Responsive card-based layouts
-
-### LearnSpark
-
-* AI-powered learning concept
-* Learning dashboard mockup
-* Course catalog
-* Progress tracking
-* AI Tutor concept
-* Skill roadmaps
-* Project-based learning
-* Pricing system
-* Testimonials
-* FAQ
-
 ---
 
 ## 🔮 Future Improvements
 
 Potential future enhancements include:
 
-* [ ] Convert the static pages into React/Next.js applications
-* [ ] Add reusable UI components
-* [ ] Add backend APIs
-* [ ] Implement authentication
-* [ ] Connect a database
-* [ ] Implement actual AI Tutor functionality
-* [ ] Add personalized learning recommendations
-* [ ] Add real course enrollment
-* [ ] Implement payment integration
-* [ ] Add admin dashboards
-* [ ] Add analytics and user tracking
-* [ ] Improve accessibility with comprehensive WCAG compliance
-* [ ] Add automated testing
-* [ ] Deploy production versions
+- Convert the static pages into React/Next.js applications
+- Add reusable UI components
+- Add backend APIs
+- Add authentication
+- Connect a database
+- Implement actual AI Tutor functionality
+- Add personalised learning recommendations
+- Add real course enrollment
+- Implement payment integration
+- Add admin dashboards
+- Add analytics and user tracking
+- Improve accessibility with comprehensive WCAG compliance
+- Add automated testing
+- Deploy production versions
 
 ---
 
-## 👨‍💻 Author
+## 📄 Project Highlights
 
-**Manas Verma**
+### InAmigos Foundation
 
-GitHub:
-https://github.com/manas-verma11
+- Mission-driven landing page
+- Impact statistics
+- Organization information
+- Project showcase
+- Donation CTA
+- Volunteer CTA
+- Contact section
+- Responsive card-based layouts
+- Volunteer-interest form
+
+### LearnSpark
+
+- AI-powered learning concept
+- Learning dashboard mockup
+- Course catalog
+- Progress tracking
+- AI Tutor concept
+- Skill roadmaps
+- Project-based learning
+- Pricing system
+- Testimonials
+- FAQ
 
 ---
 
-## 📄 License
+## ❤️ Internship Project
 
-This repository is intended primarily for **educational, portfolio, and demonstration purposes**.
+Developed by **Manas Verma** as part of the web development internship with **InAmigos Foundation**.
 
-Please review the ownership and usage rights of any third-party branding, organization information, images, fonts, or external assets before reusing them commercially.
-
----
-
-## ⭐ Acknowledgements
-
-Built as part of web-development work associated with **InAmigos Foundation**, combining practical frontend development with social-impact and educational product concepts.
-
----
-
-### 💡 Project Summary
-
-> **InAmigo brings together two different applications of frontend development — building a digital presence for a social-impact organization and designing a modern AI-powered learning platform experience.**
